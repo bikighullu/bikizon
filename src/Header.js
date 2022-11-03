@@ -17,7 +17,7 @@ function Header() {
 
       <div className="header_nav">
         <div className="header_option">
-          <span className="header_option1">Hello Guest</span>
+          <span className="header_option1">Hello Biki</span>
           <span className="header_option2">Sign in</span>
         </div>
 
